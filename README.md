@@ -1,2 +1,1 @@
-# Data-Analysis-Dashboard-in-Excel
-I developed a conprehensive project in Excel, creating multiple dashboards and tables to analyze the data.
+# Analysis of company sales and profits (Interactive Dashboard creation using MS Excel)
